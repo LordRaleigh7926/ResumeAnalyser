@@ -35,4 +35,4 @@ The `resume_dataset.csv` file contains a sample dataset with resume information.
 This project is licensed under the GNU General Public License v3.0 - see the License file for details.
 
 ## Acknowledgments
-If you have any questions or suggestions, please open an issue or reach out to [ankushroy7926@gmail.com].
+If you have any questions or suggestions, please open an issue or reach out to ankushroy7926@gmail.com.
